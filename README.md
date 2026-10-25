@@ -14,7 +14,6 @@ MSc Business Informatics student and Alternative Investment Services professiona
 
 **Education & Certifications**
 * **MSc Business Informatics** (Ongoing)
-* **CS50P – Harvard University** (Ongoing)
 * **FMVA – Corporate Finance Institute** (Ongoing)
 * **DataCamp SQL Track** (Intermediate SQL, Data Manipulation & Joins)
 * **Google Data Analytics Professional** 
