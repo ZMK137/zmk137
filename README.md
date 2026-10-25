@@ -7,7 +7,7 @@ MSc Business Informatics student and Alternative Investment Services professiona
 * `investdetective.pl` – A deployed full-stack framework (Python, Flask, PostgreSQL) hosted on a Linux VPS via Docker. Automates ETL processes and applies statistical scoring to detect financial anomalies in corporate reporting.
 * **Empirical Analysis of Creative Accounting** – Research project evaluating the reliability of financial statements across WIG and mWIG40 public equities using fundamental analysis and statistical models.
 
-**Technical Arsenal**
+**Technicals**
 * **Data Engineering:** Python (Pandas, NumPy), ETL architecture, SQL (PostgreSQL, T-SQL)
 * **Infrastructure:** Flask, Docker, Linux Server Administration, Git
 * **Finance & BI:** Advanced Excel (Financial Modeling), Tableau, Power BI
